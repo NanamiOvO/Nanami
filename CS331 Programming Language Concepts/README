@@ -1,1 +1,7 @@
 编程设计语言概论
+HW2 is comprised of multiple math based functions and coroutines.
+HW3 is a lexer that takes different strings and returns the category of each character in the returned lexeme string.
+HW4 is a parser that interprets the lexeme string returned by HW3.
+HW5 is comprised of multiple functions using recursion and lists in Haskell.
+HW6 is an interpreter that combines lexit.lua and parseit.lua from HW3 and HW4 and creates code specific to the Jerboa language.
+HW7 encompasses four different programming languages; Jerboa, Forth, Scheme, and Prolog. The programs consist of one main function each that performs arithmetic on lists and numbers.
